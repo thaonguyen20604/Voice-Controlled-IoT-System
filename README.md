@@ -14,3 +14,9 @@ The system integrates **ESP32**, **Firebase**, and **Flutter** to enable **real-
 - **Firebase Realtime Database**  
 - **Flutter**  
 - **Google Assistant**
+
+🚀 **How to Run**
+
+- **Flash ESP32 firmware**
+- **Connect Firebase**
+- **Build and run Flutter app**
