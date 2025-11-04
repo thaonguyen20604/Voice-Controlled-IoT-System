@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "406656607159",
+    "firebase_url": "https://iotp-4968f-default-rtdb.firebaseio.com",
+    "project_id": "iotp-4968f",
+    "storage_bucket": "iotp-4968f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406656607159:android:76d070502e15ff7cc33e32",
+        "android_client_info": {
+          "package_name": "com.example.home_automation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406656607159-l312dem6fboi1el07g9p7aticqomslk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_automation_app",
+            "certificate_hash": "f5443278d1b14dd0e7f6ee904e2092d9ebaa8eff"
+          }
+        },
+        {
+          "client_id": "406656607159-vcfmab9db9q7slm5oggckhf72idroej0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_automation_app",
+            "certificate_hash": "9c0d7c1fe12fab2fde6ad66964ee1f0d277b203b"
+          }
+        },
+        {
+          "client_id": "406656607159-5o79f4o8ie3od9abp4nrqdn2jkgtfh8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh9H7IWI1p7qZB7QjFkQvKsgBHkAsMZ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406656607159-5o79f4o8ie3od9abp4nrqdn2jkgtfh8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

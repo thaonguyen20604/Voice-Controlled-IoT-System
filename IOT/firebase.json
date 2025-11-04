@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "iotdemo-81143",
+          "appId": "1:609062162885:android:b5d436d453447048bdbbac",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "iotdemo-81143",
+          "configurations": {
+            "android": "1:609062162885:android:b5d436d453447048bdbbac",
+            "ios": "1:609062162885:ios:d175bdcb24e91275bdbbac",
+            "macos": "1:609062162885:ios:d175bdcb24e91275bdbbac",
+            "web": "1:609062162885:web:ac704f082d7d6efdbdbbac",
+            "windows": "1:609062162885:web:b48a712cfaa50101bdbbac"
+          }
+        }
+      }
+    }
+  }
+}
